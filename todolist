@@ -1,0 +1,3 @@
+Created mongodb models and respective routes, models for questions and answers.
+To-do
+*test whether getting response from the user and storing in db properly.
